@@ -1,4 +1,4 @@
-const TG = 'Night3777';
+const TG = 'Night37777';
 const TG_URL = 'https://t.me/' + TG;
 
 const PRODUCTS = [
